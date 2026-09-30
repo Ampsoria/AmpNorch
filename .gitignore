@@ -1,0 +1,27 @@
+# Build outputs and local caches
+/build/
+/.build/
+/DerivedData/
+
+# macOS metadata (keep Resources/dmg-layout.DS_Store for packaging)
+.DS_Store
+._*
+
+# Local IDE state
+.vscode/
+.idea/
+*.xcuserstate
+xcuserdata/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.p8
+
+# Temporary files
+*.log
+*.tmp
+*.swp

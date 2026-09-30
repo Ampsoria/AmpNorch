@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>AmpNotch</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.ampsoria.AmpNotch</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>AmpNotch</string>
+	<key>CFBundleDisplayName</key>
+	<string>AmpNotch</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.2.0</string>
+	<key>CFBundleVersion</key>
+	<string>9</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>13.0</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSSupportsAutomaticGraphicsSwitching</key>
+	<true/>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>AmpNotch shows a connection notification at the notch when your AirPods or Bluetooth headphones connect.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>AmpNotch uses the microphone when you choose to identify a song with Shazam.</string>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>AmpNotch requires permission to control and display playback from Apple Music and Spotify.</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2026 Ampsoria. All rights reserved. Developed by Ampsoria. GitHub: https://github.com/Ampsoria | Facebook: https://facebook.com/Ampsoria</string>
+	<key>CFBundleGetInfoString</key>
+	<string>AmpNotch 1.2.0 by Ampsoria</string>
+	<key>NSAudioCaptureUsageDescription</key>
+	<string>AmpNotch reads system audio to animate the notch waveform. Audio is processed locally and is not recorded or uploaded.</string>
+</dict>
+</plist>

@@ -1,0 +1,15 @@
+AmpNotch 1.2 — Ampsoria
+
+Native macOS notch with Apple Music/Spotify controls, paired browser media controls,
+local system-audio waveform with artwork colors, AirPods connection/proximity HUDs,
+and StandBy with actual media, battery, time and weather data.
+
+Apple Liquid Glass requires macOS 26. Live audio requires macOS 14.2 and System
+Audio Recording permission. Browser integration requires the companion extension.
+AirPods case broadcasts vary by hardware/firmware and are not guaranteed for all models.
+StandBy is an app window, not a secure lock screen. There is no call answering or
+video mirroring. See RELEASE_NOTES.md and INTEGRATIONS.md for verified behavior.
+
+GitHub: https://github.com/Ampsoria
+Facebook: https://facebook.com/Ampsoria
+Copyright (c) 2026 Ampsoria. All rights reserved.

@@ -1,0 +1,42 @@
+================================================================================
+                    AMPNOTCH SOFTWARE LICENSE & ATTRIBUTION
+================================================================================
+
+App:        AmpNotch (Dynamic Notch & iOS StandBy for macOS)
+Author:     Ampsoria
+GitHub:     https://github.com/Ampsoria
+Facebook:   https://facebook.com/Ampsoria
+
+Copyright (c) 2026 Ampsoria. All rights reserved.
+
+--------------------------------------------------------------------------------
+TERMS OF USE AND ATTRIBUTION:
+--------------------------------------------------------------------------------
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use,
+run, and interact with the Software without restriction, subject to the
+following conditions:
+
+1. ATTRIBUTION:
+   The above copyright notice, developer attribution (Ampsoria), and official
+   links (GitHub: https://github.com/Ampsoria, Facebook: https://facebook.com/Ampsoria)
+   shall be included in all copies or substantial portions of the Software.
+
+2. OWNERSHIP:
+   The Software, including its design, branding, and custom extensions, is
+   developed and maintained by Ampsoria.
+
+3. DISCLAIMER:
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+   THE SOFTWARE.
+
+================================================================================
+Developed with ❤️ by Ampsoria
+GitHub:   https://github.com/Ampsoria
+Facebook: https://facebook.com/Ampsoria
+================================================================================
